@@ -1,5 +1,5 @@
 # Twitter-Network-Analysis-using-Networkx-and-Cytoscape
-## Visual Representation of the Network
+## Visual Representation of the Network:-
 ![Screenshot 2022-06-11 165240](https://user-images.githubusercontent.com/61539946/173186041-362bfc9b-59e8-43d1-be8b-8fd8e83ac60e.png)
   
 ## Introduction:-
